@@ -8,3 +8,6 @@
 docker-compose up -d
 ```
 
+## some note
+
+if you want to config with your databse && comment `./LocalSettings.php` volume
